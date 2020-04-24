@@ -1,0 +1,41 @@
+permalink   : /:categories/:year/:title/
+markdown    : kramdown
+highlighter : pygments
+
+paginate: 2 #6
+comments: true
+paginate_path: "/page/:num"
+
+destination: _site
+sass:
+  sass_dir: _scss
+  style: compressed
+
+# Site settings
+title: Khushi Mehta
+description: "Khushi's site"
+email: khushimehta0502@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yourdomain.com"
+url: "http://nandomoreira.me/lora"
+repository: "https://github.com/khushimehta12/khushimehta12.github.io"
+#disqus_shortname: "fernandomoreira"
+google_analytics: UA-52446115-1
+
+# social footer
+social:
+  github:
+    slug: github
+    link: http://github.com/khushimehta12
+  facebook:
+    slug: facebook
+    link: http://facebook.com/khushi.mehta.9461799
+  twitter:
+    slug: twitter
+    link: http://twitter.com/nandomoreirame
+  instagram:
+    slug: instagram
+    link: http://instagram.com/itz_smile__
+  linkedin:
+    slug: linkedin
+    link: http://linkedin.com/in/khushi-mehta-11156917b/
