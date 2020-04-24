@@ -48,7 +48,7 @@ GEM
     pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
-    rake (10.4.2)
+    rake (12.3.3)
     rb-fsevent (0.9.6)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
@@ -57,7 +57,6 @@ GEM
     sass (3.4.19)
     toml (0.1.2)
       parslet (~> 1.5.0)
-    wdm (0.1.1)
     yajl-ruby (1.2.3)
 
 PLATFORMS
@@ -66,9 +65,8 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 2.5.3)
-  rake (~> 10.4.2)
+  rake (~> 12.3.3)
   sass (~> 3.4.10)
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
    1.17.2
