@@ -17,7 +17,7 @@ description: "Khushi's site"
 email: khushimehta0502@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com"
-url: "http://nandomoreira.me/lora"
+url: "https://khushimehta12.github.io"
 repository: "https://github.com/khushimehta12/khushimehta12.github.io"
 #disqus_shortname: "fernandomoreira"
 google_analytics: UA-52446115-1
@@ -26,16 +26,16 @@ google_analytics: UA-52446115-1
 social:
   github:
     slug: github
-    link: http://github.com/khushimehta12
+    link: https://github.com/khushimehta12
   facebook:
     slug: facebook
-    link: http://facebook.com/khushi.mehta.9461799
+    link: https://facebook.com/khushi.mehta.9461799
   twitter:
     slug: twitter
-    link: http://twitter.com/nandomoreirame
+    link: https://twitter.com/nandomoreirame
   instagram:
     slug: instagram
-    link: http://instagram.com/itz_smile__
+    link: https://instagram.com/itz_smile__
   linkedin:
     slug: linkedin
-    link: http://linkedin.com/in/khushi-mehta-11156917b/
+    link: https://linkedin.com/in/khushi-mehta-11156917b/
