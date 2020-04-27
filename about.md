@@ -14,7 +14,7 @@ Apart from this i also love dancing,designing and sports.
 </p>
 
 <p>
-Pssionate and hardworking about my work. I adore to work in challenging environment to deal with real life problems with my coding skills and utilizes my knowledge for professional growth.
+Passionate and hardworking about my work. I adore to work in challenging environment to deal with real life problems with my coding skills and utilizes my knowledge for professional growth.
 
 
 </p>
