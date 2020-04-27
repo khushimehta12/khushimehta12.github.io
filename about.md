@@ -19,6 +19,8 @@ Apart from this i also love dancing,designing and sports.
 <b>Get In Touch!<b>
 
 <p>
-Send me request on <a target="_blank" href="https://facebook.com/khushi.mehta.9461799"><span style="color: #3b5998">Facebook</span></a> or follow me on instagram.	
-Send me an email or ping me on Twitter. I’m also on Github and Linkedin.if you’re into that sort of thing.
+Send me request on <a target="_blank" href="https://facebook.com/khushi.mehta.9461799"><span style="color: #3b5998">Facebook</span></a> or follow me on <a target="_blank" href="https://instagram.com/itz_smile__"><span style="color: #3b5998">Instagram</span></a> or follow me on .	
+you can also Send me an email for quick response or ping me on <a target="_blank" href="https://twitter.com/KhushiM55980122"><span style="color: #3b5998">Twitter</span></a>. I’m also on <a target="_blank" href="https://github.com/khushimehta12"><span style="color: #3b5998">Github</span></a> and <a target="_blank" href=" https://linkedin.com/in/khushi-mehta-11156917b/"><span style="color: #3b5998">Linkedin</span></a> .if you’re into that sort of thing.
 </p>
+
+
