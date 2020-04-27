@@ -12,8 +12,7 @@ I love organizing events that's why i am involved in various communities.I am Vi
 
 Apart from this i also love dancing,designing and sports.
 </p>
-<br>
-<br>
+
 <p>
 Pssionate and hardworking about my work. I adore to work in challenging environment to deal with real life problems with my coding skills and utilizes my knowledge for professional growth.
 
