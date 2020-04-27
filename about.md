@@ -6,7 +6,7 @@ permalink: /about/
 
 <b>Hey!</b>
 <p>Thanku for looking at my web.
-I am Khushi Mehta.Presently I am pursuing my third year from GHRCEM,Pune.I am doing my major in Computer Science.Basically I am from Dungarpur which is situated in Rajasthan.
+I am Khushi Mehta.Presently I am pursuing my third year from  <a target="_blank" href="http://ghrcem.raisoni.net/"><span style="color: #3b5998">GHRCEM</span></a>,Pune.I am doing my major in Computer Science.Basically I am from Dungarpur which is situated in Rajasthan.
 
 
 I love organizing events that why i am involved in various communities.I am Vice President of college forum.
